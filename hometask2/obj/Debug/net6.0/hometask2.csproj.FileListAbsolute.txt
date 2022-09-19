@@ -1,0 +1,15 @@
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/bin/Debug/net6.0/hometask2
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/bin/Debug/net6.0/hometask2.deps.json
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/bin/Debug/net6.0/hometask2.runtimeconfig.json
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/bin/Debug/net6.0/hometask2.dll
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/bin/Debug/net6.0/hometask2.pdb
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/obj/Debug/net6.0/hometask2.csproj.AssemblyReference.cache
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/obj/Debug/net6.0/hometask2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/obj/Debug/net6.0/hometask2.AssemblyInfoInputs.cache
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/obj/Debug/net6.0/hometask2.AssemblyInfo.cs
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/obj/Debug/net6.0/hometask2.csproj.CoreCompileInputs.cache
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/obj/Debug/net6.0/hometask2.dll
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/obj/Debug/net6.0/refint/hometask2.dll
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/obj/Debug/net6.0/hometask2.pdb
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/obj/Debug/net6.0/hometask2.genruntimeconfig.cache
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask2/obj/Debug/net6.0/ref/hometask2.dll
