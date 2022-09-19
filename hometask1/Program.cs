@@ -7,15 +7,18 @@ Clear();
 Write("Введеите 2 числa: ");
 int num1=Convert.ToInt32(ReadLine());
 int num2=int.Parse(ReadLine()!);
+int max = num1;
 if(num1 == num2)
 {
     WriteLine($"Введенные вами числа равны");
 }
 if (num1 > num2)
 {
-    WriteLine($"Мы сравнили два числа {num1} и {num2} и большим оказалось {num1}");
+    max = num1;
+    WriteLine($"Мы сравнили два числа {num1} и {num2} и большим оказалось {max}");
 }
-else
+if (num1 < num2)
 {
-    WriteLine($"Мы сравнили два числа {num1} и {num2} и большим оказалось {num2}");
+    max = num2;
+    WriteLine($"Мы сравнили два числа {num1} и {num2} и большим оказалось {max}");
 }
