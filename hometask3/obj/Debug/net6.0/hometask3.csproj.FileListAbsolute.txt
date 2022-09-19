@@ -1,0 +1,15 @@
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/bin/Debug/net6.0/hometask3
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/bin/Debug/net6.0/hometask3.deps.json
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/bin/Debug/net6.0/hometask3.runtimeconfig.json
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/bin/Debug/net6.0/hometask3.dll
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/bin/Debug/net6.0/hometask3.pdb
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/obj/Debug/net6.0/hometask3.csproj.AssemblyReference.cache
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/obj/Debug/net6.0/hometask3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/obj/Debug/net6.0/hometask3.AssemblyInfoInputs.cache
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/obj/Debug/net6.0/hometask3.AssemblyInfo.cs
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/obj/Debug/net6.0/hometask3.csproj.CoreCompileInputs.cache
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/obj/Debug/net6.0/hometask3.dll
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/obj/Debug/net6.0/refint/hometask3.dll
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/obj/Debug/net6.0/hometask3.pdb
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/obj/Debug/net6.0/hometask3.genruntimeconfig.cache
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask3/obj/Debug/net6.0/ref/hometask3.dll
