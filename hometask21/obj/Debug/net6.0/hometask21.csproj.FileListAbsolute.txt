@@ -1,0 +1,15 @@
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/obj/Debug/net6.0/hometask21.csproj.AssemblyReference.cache
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/obj/Debug/net6.0/hometask21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/obj/Debug/net6.0/hometask21.AssemblyInfoInputs.cache
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/obj/Debug/net6.0/hometask21.AssemblyInfo.cs
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/obj/Debug/net6.0/hometask21.csproj.CoreCompileInputs.cache
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/bin/Debug/net6.0/hometask21
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/bin/Debug/net6.0/hometask21.deps.json
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/bin/Debug/net6.0/hometask21.runtimeconfig.json
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/bin/Debug/net6.0/hometask21.dll
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/bin/Debug/net6.0/hometask21.pdb
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/obj/Debug/net6.0/hometask21.dll
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/obj/Debug/net6.0/refint/hometask21.dll
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/obj/Debug/net6.0/hometask21.pdb
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/obj/Debug/net6.0/hometask21.genruntimeconfig.cache
+/Users/antonkomarov/Downloads/Coding/C# sem/hometask21/obj/Debug/net6.0/ref/hometask21.dll
